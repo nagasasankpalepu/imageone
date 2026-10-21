@@ -1,0 +1,6 @@
+{
+  "name": "ImagineAI — Free Generative Art Studio",
+  "description": "Full-stack AI image generation studio powered by FLUX models with zero unexpected spending, instant prompt enhancement, persistent creations gallery, and obsidian aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
